@@ -8,7 +8,7 @@
 ##### A web application to connect with different databases and perform basic CURD operation using web interface.
 ##### Databases that we can interact are MySQL, MongoDB and Cassandra
 
-### 3. CREATING MY OWN BASIC CALCULATOR.
+### 3. MY OWN BASIC CALCULATOR.
 ##### Using Flask -API to create a Basic Model.
 ##### In this Calculator we can perform some basic operation such as:
         - ADDITION.
